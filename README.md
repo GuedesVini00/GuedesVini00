@@ -70,14 +70,6 @@ Meu principal objetivo é conquistar minha primeira oportunidade como **Desenvol
 
 📌 Novos projetos em desenvolvimento...
 
----
-
-# 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuedesVini00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuedesVini00&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -88,16 +80,6 @@ Meu principal objetivo é conquistar minha primeira oportunidade como **Desenvol
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GuedesVini00&theme=tokyonight"/>
 </p>
-
----
-
-<div align="center">
-
-## 🏆 Conquistas
-
-<img src="https://github-profile-trophy.vercel.app/?username=GuedesVini00&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 <div align="left">
