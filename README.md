@@ -2,7 +2,7 @@
 
 # Olá 👋 , eu sou o Vinícius Guedes
 
-**Junior Software Engineer | Java, SQL | 🇧🇷 Brazil**  
+**Junior Software Engineer | Java, SQL | Brazil**  
 
 ---
 
@@ -73,16 +73,27 @@ Meu principal objetivo é conquistar minha primeira oportunidade como **Desenvol
 
 ---
 
+# 📊 Estatísticas do GitHub
+
 <div align="center">
 
-##  Sequência de contribuições
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuedesVini00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GuedesVini00&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuedesVini00&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-<div align="left">
+</div>
+
+<br>
+
+<div align="center">
+
+## 🔥 Sequência de contribuições
+
+<img src="https://streak-stats.demolab.com?user=GuedesVini00&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
   
 # 🌎 Vamos nos conectar
 
@@ -90,14 +101,14 @@ Meu principal objetivo é conquistar minha primeira oportunidade como **Desenvol
 <div align="left">
 <p>
 
-<a href="https://github.com/[**GuedesVini00**](https://github.com/GuedesVini00)">
+<a href="https://github.com/GuedesVini00">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/[vinicius-guedes-815646344](https://www.linkedin.com/in/vinicius-guedes-815646344)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/vinicius-guedes-815646344/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:[viniguedessoriano00@gmail.com](mailto:viniguedessoriano00@gmail.com)"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:viniguedessoriano00@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
