@@ -88,7 +88,7 @@ Meu principal objetivo é conquistar minha primeira oportunidade como **Desenvol
 
 <div align="center">
 
-##  Contribuições
+## Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GuedesVini00/GuedesVini00/output/github-contribution-grid-snake-dark.svg" />
