@@ -81,15 +81,18 @@ Meu principal objetivo é conquistar minha primeira oportunidade como **Desenvol
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuedesVini00&layout=compact&theme=tokyonight&hide_border=true"/>
 
+
 </div>
 
 <br>
 
 <div align="center">
 
-## Sequência de contribuições
+##  Contribuições
 
-<img src="https://streak-stats.demolab.com?user=GuedesVini00&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GuedesVini00/GuedesVini00/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 </div>
 
