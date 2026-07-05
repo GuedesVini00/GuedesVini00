@@ -87,7 +87,7 @@ Meu principal objetivo é conquistar minha primeira oportunidade como **Desenvol
 
 <div align="center">
 
-## 🔥 Sequência de contribuições
+## Sequência de contribuições
 
 <img src="https://streak-stats.demolab.com?user=GuedesVini00&theme=tokyonight&hide_border=true"/>
 
@@ -98,17 +98,12 @@ Meu principal objetivo é conquistar minha primeira oportunidade como **Desenvol
 # 🌎 Vamos nos conectar
 
 </div>
-<div align="left">
+<div>
 <p>
 
-<a href="https://github.com/GuedesVini00">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vinicius-guedes-815646344/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:viniguedessoriano00@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/GuedesVini00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/vinicius-guedes-815646344/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:viniguedessoriano00@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
