@@ -12,7 +12,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por tecnologia e desenvolvimento de software.
 
-Atualmente direciono meus estudos para o ecossistema **Java**, aprofundando conhecimentos em **Spring Boot**, **APIs REST**, **JPA/Hibernate** e **SQL**, buscando construir aplicações escaláveis, organizadas e seguindo boas práticas de desenvolvimento.
+Atualmente direciono meus estudos para o ecossistema **Java**, aprofundando conhecimentos em **Spring Boot**, **APIs REST**, **Docker** e **SQL**, buscando construir aplicações escaláveis, organizadas e seguindo boas práticas de desenvolvimento.
 
 Meu principal objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Backend Java**, contribuindo com soluções de qualidade e evoluindo continuamente como profissional.
 
