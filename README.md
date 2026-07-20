@@ -2,7 +2,7 @@
 
 # Olá 👋 , eu sou o Vinícius Guedes
 
-**Junior Software Engineer | Java, SQL | Brazil**  
+**Junior Software Engineer | Java | SQL  
 
 ---
 
