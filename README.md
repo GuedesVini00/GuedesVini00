@@ -2,7 +2,7 @@
 
 # Olá 👋 , eu sou o Vinícius Guedes
 
-**Junior Software Engineer | Java |Spring Boot | SQL**
+**Junior Software Engineer | Java |Spring Boot | SQL | Angular**
 
 ---
 
